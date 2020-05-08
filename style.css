@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(196, 196, 196);
+}
+
+p {
+    font-weight: bold;
+}
+
+a:hover {
+    cursor: pointer;
+}
